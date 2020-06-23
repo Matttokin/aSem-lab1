@@ -1,0 +1,14 @@
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\aSem lab1.exe.config
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\aSem lab1.exe
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\aSem lab1.pdb
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.Form1.resources
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.register.resources
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csproj.CopyComplete
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.exe
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.pdb
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.auth.resources
